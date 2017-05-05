@@ -5,7 +5,7 @@ This folder should contain all the external
 Javascript libraries that are needed by your
 project.  It is a good idea to actually include
 copies of those libraries here instead of linking
-to a CDN or other URL.  This was, far into the
+to a CDN or other URL.  This way, far into the
 future, someone can re-run your experiment without
 have to hunt down an older version of the libraries
 you used.  By default, the Stroop example
